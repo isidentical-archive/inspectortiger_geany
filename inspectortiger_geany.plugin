@@ -1,0 +1,6 @@
+[Plugin]
+Module=inspectortiger_geany
+Loader=python3
+Name=Inspector Tiger
+Authors=Batuhan Taskaya <isidentical@gmail.com>
+X-Peasy-API=228
